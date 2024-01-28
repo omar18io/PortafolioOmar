@@ -1,6 +1,6 @@
 const proyectos = [
   {
-    titulo: "Pagina Web Centro de Varones",
+    titulo: "Pagina Web Centro de Varones Impresionante Proyecto",
     descripcion:"Esta Pagina Web Fue Creada para Centro De Varones Para Tener Mas Informados A Los Padres De Familia Como Tambien Podemos Tener de Alumnos",
     link: "https://www.youtube.com/watch?v=-IK4olKRqZY&t=18s",
     fecha: "01/12/2023",
